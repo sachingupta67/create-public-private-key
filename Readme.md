@@ -124,4 +124,8 @@ console.log("Signature is valid:", recoveredAddress === publicKey);
 
 ```
 
+# Use-case of Public & Private keys
+  - SSL / TLS Certificate
+  - SSH Key to connect to server / push to github
+  - Block chain & Cryptography
 
