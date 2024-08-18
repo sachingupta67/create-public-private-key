@@ -1,4 +1,4 @@
-** Generate Public & Private Key
+** Generate Public & Private Key **
 
    - Before Solana Exist | using - @noble/ed25519 
 
@@ -26,5 +26,5 @@
             }
 
             main();
-            
+
     ```
